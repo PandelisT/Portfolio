@@ -17,13 +17,13 @@ Some functionality and features included are:
 
 ## Sitemap
 
-###List of pages:
+### List of pages:
 Home
 About
 Blog
 Porfolio
 
-###Sitemap
+### Sitemap
 [Sitemap](docs/sitemap.jpg)
 
 ## Screenshots
