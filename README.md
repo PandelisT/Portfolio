@@ -31,30 +31,30 @@ Porfolio
 ### Wireframes
 
 **Desktop**
-[Home Desktop Wireframe](docs/Home_desktop_wireframe.jpg)
-[About Desktop Wireframe](docs/About_desktop_wireframe.jpg)
-[Blog Desktop Wireframe](docs/Blog_desktop_wireframe.jpg)
-[Portfolio Desktop Wireframe](docs/Portfolio_desktop_wireframe.jpg)
+[Home Desktop Wireframe](docs/Home_desktop_wireframe.JPG)
+[About Desktop Wireframe](docs/About_desktop_wireframe.JPG)
+[Blog Desktop Wireframe](docs/Blog_desktop_wireframe.JPG)
+[Portfolio Desktop Wireframe](docs/Portfolio_desktop_wireframe.JPG)
 
 **Mobile**
-[Home Mobile Wireframe](docs/Home_mobile_wireframe.jpg)
-[About Mobile Wireframe](docs/About_mobile_wireframe.jpg)
-[Blog Mobile Wireframe](docs/Blog_mobile_wireframe.jpg)
-[Portfolio Mobile Wireframe](docs/Portfolio_mobile_wireframe.jpg)
+[Home Mobile Wireframe](docs/Home_mobile_wireframe.JPG)
+[About Mobile Wireframe](docs/About_mobile_wireframe.JPG)
+[Blog Mobile Wireframe](docs/Blog_mobile_wireframe.JPG)
+[Portfolio Mobile Wireframe](docs/Portfolio_mobile_wireframe.JPG)
 
 ### Screenshots of website
 
 **Desktop**
-[Home Desktop](docs/Home_desktop_screenshot.jpg)
-[About Desktop](docs/Home_desktop_screenshot.jpg)
-[Blog Desktop](docs/Home_desktop_screenshot.jpg)
-[Portfolio Desktop](docs/Home_desktop_screenshot.jpg)
+[Home Desktop](docs/Home_desktop_screenshot.JPG)
+[About Desktop](docs/About_desktop_screenshot.JPG)
+[Blog Desktop](docs/Blog_desktop_screenshot.JPG)
+[Portfolio Desktop](docs/Home_desktop_screenshot.JPG)
 
 **Mobile**
-[Home Mobile](docs/Home_mobile_screenshot.jpg)
-[About Mobile](docs/About_mobile_screenshot.jpg)
-[Blog Mobile](docs/Blog_mobile_screenshot.jpg)
-[Portfolio Mobile](docs/Portfolio_mobile_screenshot.jpg)
+[Home Mobile](docs/Home_mobile_screenshot.JPG)
+[About Mobile](docs/About_mobile_screenshot.JPG)
+[Blog Mobile](docs/Blog_mobile_screenshot.JPG)
+[Portfolio Mobile](docs/Portfolio_mobile_screenshot.JPG)
 
 ## Target Audience
 
