@@ -24,7 +24,7 @@ Blog
 Porfolio
 
 ### Sitemap
-[Sitemap](docs/sitemap.jpg)
+![Sitemap](docs/sitemap.jpg)
 
 ## Screenshots
 
