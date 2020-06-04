@@ -24,7 +24,8 @@ Blog
 Porfolio
 
 ### Sitemap
-![Sitemap](docs/sitemap.JPG =250x)
+![]()
+<img src="docs/sitemap.JPG" alt="Sitemap" width="200"/>
 
 ## Screenshots
 
