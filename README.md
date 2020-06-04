@@ -24,17 +24,17 @@ Blog
 Porfolio
 
 ### Sitemap
-![Sitemap](docs/sitemap.JPG)
+![Sitemap](docs/sitemap.JPG =250x)
 
 ## Screenshots
 
 ### Wireframes
 
 **Desktop**
-![Home Desktop Wireframe](docs/Home_desktop_wireframe.JPG)
-![About Desktop Wireframe](docs/About_desktop_wireframe.JPG)
-![Blog Desktop Wireframe](docs/Blog_desktop_wireframe.JPG)
-![Portfolio Desktop Wireframe](docs/Portfolio_desktop_wireframe.JPG)
+![Home Desktop Wireframe](docs/Home_desktop_wireframe.JPG =250x)
+![About Desktop Wireframe](docs/About_desktop_wireframe.JPG =250x)
+![Blog Desktop Wireframe](docs/Blog_desktop_wireframe.JPG =250x)
+![Portfolio Desktop Wireframe](docs/Portfolio_desktop_wireframe.JPG =250x)
 
 **Mobile**
 ![Home Mobile Wireframe](docs/Home_mobile_wireframe.JPG)
