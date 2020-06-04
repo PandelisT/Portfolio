@@ -31,13 +31,13 @@ Porfolio
 
 ### Wireframes
 
-**Desktop**
+#### Desktop
 ![Home Desktop Wireframe](docs/Home_desktop_wireframe.JPG =250x)
 ![About Desktop Wireframe](docs/About_desktop_wireframe.JPG =250x)
 ![Blog Desktop Wireframe](docs/Blog_desktop_wireframe.JPG =250x)
 ![Portfolio Desktop Wireframe](docs/Portfolio_desktop_wireframe.JPG =250x)
 
-**Mobile**
+#### Mobile
 ![Home Mobile Wireframe](docs/Home_mobile_wireframe.JPG)
 ![About Mobile Wireframe](docs/About_mobile_wireframe.JPG)
 ![Blog Mobile Wireframe](docs/Blog_mobile_wireframe.JPG)
@@ -45,13 +45,13 @@ Porfolio
 
 ### Screenshots of website
 
-**Desktop**
+#### Desktop
 ![Home Desktop](docs/Home_desktop_screenshot.JPG)
 ![About Desktop](docs/About_desktop_screenshot.JPG)
 ![Blog Desktop](docs/Blog_desktop_screenshot.JPG)
 ![Portfolio Desktop](docs/Home_desktop_screenshot.JPG)
 
-**Mobile**
+#### Mobile
 ![Home Mobile](docs/Home_mobile_screenshot.JPG)
 ![About Mobile](docs/About_mobile_screenshot.JPG)
 ![Blog Mobile](docs/Blog_mobile_screenshot.JPG)
