@@ -25,7 +25,7 @@ Porfolio
 
 ### Sitemap
 ![]()
-<img src="docs/sitemap.JPG" alt="Sitemap" width="200"/>
+<img src="docs/sitemap.JPG" alt="Sitemap" width="500"/>
 
 ## Screenshots
 
