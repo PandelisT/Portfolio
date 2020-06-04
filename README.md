@@ -28,7 +28,7 @@ Porfolio
 
 ## Screenshots
 
-###Wireframes
+### Wireframes
 
 **Desktop**
 [Home Desktop Wireframe](docs/Home_desktop_wireframe.jpg)
@@ -42,7 +42,7 @@ Porfolio
 [Blog Mobile Wireframe](docs/Blog_mobile_wireframe.jpg)
 [Portfolio Mobile Wireframe](docs/Portfolio_mobile_wireframe.jpg)
 
-###Screenshots of website
+### Screenshots of website
 
 **Desktop**
 [Home Desktop](docs/Home_desktop_screenshot.jpg)
