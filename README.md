@@ -31,7 +31,7 @@ Porfolio
 ### Wireframes
 
 **Desktop**
-[Home Desktop Wireframe](docs/Home_desktop_wireframe.JPG)
+(docs/Home_desktop_wireframe.JPG)
 [About Desktop Wireframe](docs/About_desktop_wireframe.JPG)
 [Blog Desktop Wireframe](docs/Blog_desktop_wireframe.JPG)
 [Portfolio Desktop Wireframe](docs/Portfolio_desktop_wireframe.JPG)
